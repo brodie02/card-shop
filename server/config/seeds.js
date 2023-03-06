@@ -495,7 +495,7 @@ db.once('open', async () => {
       name: 'Ace of Spades',
       description:
         "Ace of Spades means stocks, financial papers and good long-term investments. It is a sign that you have to strike a balance between accumulating wealth and having time to spend it. Ace of spades is a very positive omen for your future: living in a happy marriage, traveling, hobbies, and more generally, living the life as you like it.",
-      image: 'ace_of_spades.png',
+      image: 'ace_of_spades2.png',
       categories: [categories[1]._id, categories[5]._id, categories[18]._id],
       price: 2.95,
       stock: 500
